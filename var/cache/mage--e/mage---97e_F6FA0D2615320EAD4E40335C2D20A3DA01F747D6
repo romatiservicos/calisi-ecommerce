@@ -1,0 +1,11 @@
+<div class="footer-container">
+    <div class="footer row">
+       	<div class="footer-address col-sm-12">
+            <address>&copy; 2017 Calisi Store.  Todos os direitos reservados.</address> 
+            Magento Themes by <a href="http://emthemes.com/" title="Premium Magento Themes &amp; Premium Magento Templates" >emthemes.com</a>
+		</div>
+		<div class="col-sm-12">
+		<div><div class="widget widget-static-block ">
+    	    	<p class="payment_accept"><a class="brand-logo paypal" title="Paypal" href="#">Paypal</a> <a class="brand-logo express " title="American Express" href="#">American Express</a> <a class="brand-logo master" title="Master Card" href="#">MasterCard</a> <a class="brand-logo visa" title="Visa" href="#">Visa </a></p>    </div></div>		</div>
+    </div>
+</div>

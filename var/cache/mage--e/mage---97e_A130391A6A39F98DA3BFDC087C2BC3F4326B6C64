@@ -1,0 +1,4 @@
+
+    <div class="widget widget-static-block ">
+    	    	<p class="payment_accept"><a class="brand-logo paypal" title="Paypal" href="#">Paypal</a> <a class="brand-logo express " title="American Express" href="#">American Express</a> <a class="brand-logo master" title="Master Card" href="#">MasterCard</a> <a class="brand-logo visa" title="Visa" href="#">Visa </a></p>    </div>
+

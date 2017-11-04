@@ -1,0 +1,8 @@
+<div class="widget-tab-home new_tab_slider">
+		
+			
+			<p class="note-msg">Não há produtos que correspondam à seleção.</p>
+	</div>
+<script type="text/javascript">
+	decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+</script>

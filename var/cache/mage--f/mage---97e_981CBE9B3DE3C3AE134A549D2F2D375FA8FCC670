@@ -1,0 +1,105 @@
+<div class="widget-tab-home featured_tab_slider">
+		
+			
+			<div class="widget em-widget-featured-products-grid">
+			<div class="widget-products">
+														<ul class="products-grid">
+										<li class="item first"
+						style="  ">
+						<div class="product-item">
+    						    							<a href="http://ktracaengemark.com.br/ecommerce/index.php/calca-1.html" title="Calça 1" class="product-image">
+    								    									<!--show label product - label extension is required-->
+    									    								    								<img src="http://ktracaengemark.com.br/ecommerce/media/catalog/product/cache/1/small_image/220x280/9df78eab33525d08d6e5fb8d27136e95/a/1/a1.jpg" width="220" height="280" alt="Calça 1" />
+                                    <span class="bkg-hover"></span>
+    							</a>
+    						    						
+    						<div class="product-shop">
+    							<div class="f-fix">
+    								<!--product name-->
+    								    									<h3 class="product-name"><a href="http://ktracaengemark.com.br/ecommerce/index.php/calca-1.html" title="Calça 1">Calça 1</a></h3>
+    								    								
+    								<!--product reviews-->
+    								    								
+    								<!--product description-->
+    								    								
+    								<!--product price-->
+    								    																				
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1-widget-new-list">
+                                            <span class="price">R$5,00</span>                                    </span>
+                        
+        </div>
+
+										    								                                    
+                                        								<div class="actions-cart">
+        								<div class="actions">
+            								<!--product add to cart-->
+            								            									            										<button type="button" title="Adicionar ao carrinho" class="button btn-cart" onclick="setLocation('http://ktracaengemark.com.br/ecommerce/index.php/checkout/cart/add/uenc/aHR0cDovL2t0cmFjYWVuZ2VtYXJrLmNvbS5ici9lY29tbWVyY2Uv/product/1/form_key/3j5ZwRBR8nSABjKv/')"><span><span>Adicionar ao carrinho</span></span></button>
+            									            								            								
+            								<!--product add to compare-wishlist-->
+            								            									<ul class="add-to-links">
+            										            											<li><a href="http://ktracaengemark.com.br/ecommerce/index.php/wishlist/index/add/product/1/form_key/3j5ZwRBR8nSABjKv/" class="link-wishlist" title="Adicionar à Lista de Desejos">Adicionar à Lista de Desejos</a></li>
+            										            										            											<li><span class="separator">|</span> <a href="http://ktracaengemark.com.br/ecommerce/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL2t0cmFjYWVuZ2VtYXJrLmNvbS5ici9lY29tbWVyY2Uv/form_key/3j5ZwRBR8nSABjKv/" class="link-compare" title="Adicionar para Comparar">Adicionar para Comparar</a></li>
+            										            									</ul>
+            								        								</div>
+    								</div>
+                                                                        
+    							</div>
+    						</div>
+						</div>
+					</li>
+																													<li class="item last"
+						style="  ">
+						<div class="product-item">
+    						    							<a href="http://ktracaengemark.com.br/ecommerce/index.php/calca-2.html" title="Calça 2" class="product-image">
+    								    									<!--show label product - label extension is required-->
+    									    								    								<img src="http://ktracaengemark.com.br/ecommerce/media/catalog/product/cache/1/small_image/220x280/9df78eab33525d08d6e5fb8d27136e95/a/2/a2_1.jpg" width="220" height="280" alt="Calça 2" />
+                                    <span class="bkg-hover"></span>
+    							</a>
+    						    						
+    						<div class="product-shop">
+    							<div class="f-fix">
+    								<!--product name-->
+    								    									<h3 class="product-name"><a href="http://ktracaengemark.com.br/ecommerce/index.php/calca-2.html" title="Calça 2">Calça 2</a></h3>
+    								    								
+    								<!--product reviews-->
+    								    								
+    								<!--product description-->
+    								    								
+    								<!--product price-->
+    								    																				
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-2-widget-new-list">
+                                            <span class="price">R$5,00</span>                                    </span>
+                        
+        </div>
+
+										    								                                    
+                                        								<div class="actions-cart">
+        								<div class="actions">
+            								<!--product add to cart-->
+            								            									            										<button type="button" title="Adicionar ao carrinho" class="button btn-cart" onclick="setLocation('http://ktracaengemark.com.br/ecommerce/index.php/checkout/cart/add/uenc/aHR0cDovL2t0cmFjYWVuZ2VtYXJrLmNvbS5ici9lY29tbWVyY2Uv/product/2/form_key/3j5ZwRBR8nSABjKv/')"><span><span>Adicionar ao carrinho</span></span></button>
+            									            								            								
+            								<!--product add to compare-wishlist-->
+            								            									<ul class="add-to-links">
+            										            											<li><a href="http://ktracaengemark.com.br/ecommerce/index.php/wishlist/index/add/product/2/form_key/3j5ZwRBR8nSABjKv/" class="link-wishlist" title="Adicionar à Lista de Desejos">Adicionar à Lista de Desejos</a></li>
+            										            										            											<li><span class="separator">|</span> <a href="http://ktracaengemark.com.br/ecommerce/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2t0cmFjYWVuZ2VtYXJrLmNvbS5ici9lY29tbWVyY2Uv/form_key/3j5ZwRBR8nSABjKv/" class="link-compare" title="Adicionar para Comparar">Adicionar para Comparar</a></li>
+            										            									</ul>
+            								        								</div>
+    								</div>
+                                                                        
+    							</div>
+    						</div>
+						</div>
+					</li>
+										</ul>
+																		</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+</script>
